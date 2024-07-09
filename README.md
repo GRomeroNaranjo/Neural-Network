@@ -1,3 +1,5 @@
+
+
 ## **Project Description**
 
 This project aims to develop a simple streamlined neural network with very few lines of code. It portrays how AI research and math comes together into developing an ANN. This neural network implements many mathematical conecpts such as lorgarithms, chain rule... In order to correctly implement a functional neural network.
