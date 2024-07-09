@@ -1,4 +1,5 @@
-
+![Photo by Google DeepMind: https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l-18069696/](pexels-googledeepmind-18069696.jpg)
+Photo by Google DeepMind: https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l-18069696/
 
 ## **Project Description**
 
